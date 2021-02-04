@@ -2,9 +2,9 @@
 
 
 
-|   # Day   | Topics                                                    |
+|   # Hari   | Topik                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   |  [Introduction](./readme.md)      |
+|  01   |  [Pendahuluan](./readme.md)      |
 |  02   |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)  |
 |  03   |  [Operators](./03_Day_Operators/03_operators.md)    |
 |  04   |  [Strings](./04_Day_Strings/04_strings.md)|
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
+  <h1> 30 Hari Belajar Python: Hari #1 - Pendahuluan</h1>
 
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
@@ -67,7 +67,7 @@
 
 
 
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Hari 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
@@ -99,9 +99,9 @@
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
 
-# 📘 Day 1
+# 📘 Hari 1
 
-## Welcome
+## Selamat Datang
 
 **Congratulations** for deciding to participate in a _30 days of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30DaysOfPython_ programming challenge certificate.
 
