@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 30 Days Of Python: Day 2 - Variables, Builtin Functions</h1>
+  <h1> 30 Hari Belajar Python: Hari #2 - Variables, Builtin Functions</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -93,7 +93,7 @@ We will use standard python variable naming style which has been adopted by many
 
 When we assign a certain data type to a variable, it is called variable declaration. For instance in the example below my first name is assigned to a variable first_name. The equal sign is an assignment operator. Assigning means storing data in the variable.
 
-_Example:_
+_Contoh:_
 
 ```py
 # Variables in Python
@@ -115,7 +115,7 @@ person_info = {
 
 Let's use _print()_ and _len()_ built in functions. Print function will take multiple arguments. An argument is a value which we pass or put inside the function parenthesis, see the example below.
 
-**Example:**
+**Contoh:**
 
 ```py
 print('Hello, World!')
@@ -125,7 +125,7 @@ print(len('Hello, World!')) # it takes only one argument
 
 Let's print and also find the length of the variables declared at the top:
 
-**Example:**
+**Contoh:**
 
 ```py
 # Printing the values stored in the variables
@@ -144,7 +144,7 @@ print('Person information: ', person_info)
 
 Variables can also be declared in one line:
 
-**Example:**
+**Contoh:**
 
 ```py
 first_name, last_name, country, age, is_married = 'Asabeneh', 'Yetayeh', 'Helsink', 250, True
@@ -158,7 +158,7 @@ print('Married: ', is_married)
 ```
 
 Getting user input using the _input()_ built-in function. Let's assign the data we get from a user into first_name and age variables.
-**Example:**
+**Contoh:**
 
 ```py
 first_name = input('What is your name: ')
@@ -168,14 +168,14 @@ print(first_name)
 print(age)
 ```
 
-## Data Types
+## Tipe Data
 
 There are several data types in python. To identify the data type we use the _type_ builtin function. I would like you to focus on understanding different data types very well. When it comes to programming, it is all about data types. I introduced data types at the very beginning and it comes again, because every topic is related to data types. We will cover data types in more detail in their respective sections.
 
 ## Checking Data types and Casting
 
 - Check Data types: To check the data type of certain data/variable we use the _type_
-  **Example:**
+  **Contoh:**
 
 ```py
 # Different python data types
@@ -202,7 +202,7 @@ print(type(zip([1,2],[3,4])))                                   # set
 
 - Casting: Converting one data type to another data type. We use _int()_, _float()_, _str()_, _list_
   When we do arithmetic operations string numbers should be first converted to int or float otherwise it will return an error. If we concatenate a number with string, the number should be first converted to a string. We will talk about concatenation in String section.
-  **Example:**
+  **Contoh:**
 
 ```py
 # int to float
@@ -254,9 +254,9 @@ Number data types in python:
 
 🌕 You are awesome. You have just completed day 2 challenges and you are two steps ahead on your way to greatness. Now do some exercises for your brain and for your muscle.
 
-## 💻 Exercises - Day 2
+## 💻 Latihan - Hari 2
 
-### Exercises: Level 1
+### Latihan: Level 1
 
 1. Inside 30DaysOfPython create a folder called day_2. Inside this folder create a file named variables.py
 2. Write a python comment saying 'Day 2: 30 Days of python programming'
@@ -272,7 +272,7 @@ Number data types in python:
 12. Declare a variable is_light_on and assign a value to it
 13. Declare multiple variable on one line
 
-### Exercises: Level 2
+### Latihan: Level 2
 
 1. Check the data type of all your variables using type() built-in function
 1. Using the _len()_ built-in function find the length of your first name
@@ -292,6 +292,6 @@ Number data types in python:
 1. Use the built-in input function to get first name, last name, country and age from a user and store the value to their corresponding variable names
 1. Run help('keywords') in python shell or in your file to check for the reserved words
 
-🎉 CONGRATULATIONS ! 🎉
+🎉 SELAMAT ! 🎉
 
 [<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
